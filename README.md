@@ -1,4 +1,5 @@
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - treinamento gratuito
+DSMovies
+
 >  *Criando um app  com 
 Spring
 React
@@ -7,10 +8,10 @@ PostgreeSQL
 H2
 Implatanção na Nuvem :
 HEROKU (backend)
-Netlify (frontend)
+Netlify (frontend)*
 
 Link da Aplicação : https://netfreex.netlify.app/
-*
+
 
 
 
