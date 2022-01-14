@@ -1,9 +1,5 @@
 import FormCard from 'components/FormCard';
-import { Link, useParams } from 'react-router-dom';
-import { Movie } from 'types/movie';
-
-
-
+import {  useParams } from 'react-router-dom';
 
     function Form(){
 
@@ -14,5 +10,6 @@ import { Movie } from 'types/movie';
         <FormCard movieId={`${params.movieId}`} />
     );
 }
+
 
 export default Form;
